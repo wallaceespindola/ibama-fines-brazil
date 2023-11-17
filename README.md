@@ -93,7 +93,7 @@ on [creating a pull request](https://docs.github.com/en/github/collaborating-wit
 ## Author & Contact
 
 * Wallace Espindola, Sr. Software Engineer / Java & Python Dev
-* If you want to contact me, you can reach me at `wallace.espindola@gmail.com`.()
+* If you want to contact me, you can reach me at `wallace.espindola@gmail.com`.
 
 ## License
 
